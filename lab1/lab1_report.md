@@ -21,7 +21,7 @@
 
 ![Схема часть 1](https://github.com/s-txt/2023_2024-ip-telephony-k34202-sorokin_n_a/blob/main/lab1/src/1.png)
 
-
+Всем усстрофствам в сети был присвоем ip адрес в диапазоне 192.168.10.1-10
 
 ![Связь 1 -> 7](https://github.com/s-txt/2023_2024-ip-telephony-k34202-sorokin_n_a/blob/main/lab1/src/2.png)
 
