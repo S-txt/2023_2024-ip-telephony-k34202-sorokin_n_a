@@ -86,5 +86,5 @@ number 002
 
 ![Тест звона](https://github.com/s-txt/2023_2024-ip-telephony-k34202-sorokin_n_a/blob/main/lab1/src/4.png)
 
-##Вывод 
+## Вывод 
 Была изучена среда Cisco Packet Tracer, построены и настроены две схемы связи. Была построена и проверена сеть IP-телефонии.
